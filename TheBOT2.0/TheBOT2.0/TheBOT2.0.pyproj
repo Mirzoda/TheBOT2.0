@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="irc.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="TheBOT2.0.py" />
   </ItemGroup>
   <PropertyGroup>
